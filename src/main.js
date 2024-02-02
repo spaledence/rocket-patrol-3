@@ -1,3 +1,10 @@
+// Dale Spence
+// Rocket Patrol 3
+// 6-8hrs
+// Mods: Highscore: 1, 
+// 4 new explosion sound effects: 3, Time Remaining Display : 3, New Title Screen: 3,
+// New Enemy Spaceship: (new art, smaller, faster, worth more)5 points, 
+//Timing Scoring Mechanic: (misses decrease time, hits increase time) 5 points,
 let config = {
     type: Phaser.AUTO,
     width: 640,
